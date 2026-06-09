@@ -1,4 +1,4 @@
-# Movie Rating Prediction — Final Assignment Part 2
+# Movie Rating Prediction - Final Assignment Part 2
 
 **Gil Hatiel & Liel Leone | Machine Learning Course**
 
